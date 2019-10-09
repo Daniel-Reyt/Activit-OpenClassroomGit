@@ -1,3 +1,4 @@
 <?php
-echo "bonjour vous tous comment ca va";
+echo "bonjour vous tous";
+echo "comment ca va";
 ?>
